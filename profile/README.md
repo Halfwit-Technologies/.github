@@ -1,6 +1,6 @@
-## Walfwit Technologies👋
+# Walfwit Technologies👋
 
-# About
+## About
 We are 3 guys trying to make some money.
 
 <!--

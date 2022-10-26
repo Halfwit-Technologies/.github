@@ -9,7 +9,7 @@ We are 3 guys working on Freelance projects for experience, future job opportuni
 * [HalfNet](https://github.com/Halfwit-Technologies/halfnet) Our in house seach engine based on ungoogled chromium 
 * [Teen-Driver](https://github.com/Halfwit-Technologies/Teen-Driver) An app focusing on teen driving skills
 
-ΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔ
+ΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔ
 
 <!--
 🙋‍♀️ A short introduction - what is your organization all about?

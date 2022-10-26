@@ -1,7 +1,15 @@
 # Walfwit Technologies👋
 
 ## About
-We are 3 guys trying to make some money.
+We are 3 guys working on Freelance projects for experience, future job opportunities, and most importantly money.
+
+## 📦Projects
+* [ITBox](https://github.com/Halfwit-Technologies/ITBox) Cyber security toolbox
+* [HalfLang](https://github.com/Halfwit-Technologies/halflang) Our in house language based on python
+* [HalfNet](https://github.com/Halfwit-Technologies/halfnet) Our in house seach engine based on ungoogled chromium 
+* [Teen-Driver](https://github.com/Halfwit-Technologies/Teen-Driver) An app focusing on teen driving skills
+
+ΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔΔ
 
 <!--
 🙋‍♀️ A short introduction - what is your organization all about?

@@ -1,4 +1,4 @@
-# Walfwit Technologies👋
+# Halfwit Technologies👋
 
 ## About
 We are 3 guys working on Freelance projects for experience, future job opportunities, and most importantly money.
